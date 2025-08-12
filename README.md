@@ -1,29 +1,47 @@
-# 👋 Hi, I’m Ali Hassnain Bhatti
+# 👋 Hi, I’m Ali Bhatti
 
-# Portfolio
-Personal Portfolio: Showcasing expertise in web development and graphic design through modern, responsive layouts and creative visuals. Skilled in HTML, CSS, JavaScript, WordPress, and design tools like Photoshop and Canva to craft professional websites, logos, banners, and engaging digital experiences.
-
-
-🌐 **Web Developer & Creative Designer**
-💻 **BSCS Student @ UET Lahore**
-🚀 Passionate about building **modern, user-friendly websites** and **digital experiences**.
+💻 **BSCS Student @ UET Lahore**  
+🌐 Web Developer | 🎨 Creative Designer
+🚀 Passionate about creating modern, user-friendly websites and engaging digital experiences.
 
 ---
 
-## 🛠 Skills
-- **Web Development:** HTML, CSS, JavaScript, WordPress  
-- **Design & Media:** Graphic Design, Posters, Logos, Banners, Photo & Video Editing  
-- **Programming:** C#, C++, App Development  
-- **Other Tools:** Adobe Illustrator, Canva, Adobe Photoshop, Visual Studio  
+## 📌 About Me
+- Skilled in **web development** and **graphic design**
+- Experienced with creating **logos, posters, banners, and ad designs**  
+- Currently improving skills in **frontend development** and **WordPress**  
+- Enthusiastic about combining **design creativity** with **efficient coding**
 
 ---
 
-## 📂 Projects
-- **Employee Management System** (C# - OOP based)  
-- **Personal Portfolio Website** (HTML, CSS, JavaScript, WordPress)
-- Multiple **Design Projects** (posters, logos, ad banners)  
+## 🛠 Language & Tools
 
+### Frontend
+- HTML5 | CSS3 | JavaScript | WordPress | Visual Studio Code
+
+### Backend
+- C# (OOP) | C++ | MySQL
+
+### Design Tools
+- Adobe Illustrator| Canva | Adobe Photoshop
+
+### Version Control
+- GitHub | Git
 
 ---
 
-⭐ *“Code is like humor. When you have to explain it, it’s bad.”*
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-hassnain-bhatti-1a0506312?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[![YouTube](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://youtube.com/@smartuse_tech_byali?si=q9LPE9euF-Mc5rtJ)  
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto: alihassnainbhatti110@gmail.com)
+
+---
+
+## 📂 Pinned Projects
+- **Employee Management System** – C++, C#, OOP-based university project  
+- **Personal Portfolio Website** – HTML, CSS, JavaScript  
+- **Creative Design Projects** – Logos, posters, banners, and ad designs
+
+---
+
+⭐ *"Design with creativity, code with precision."*
