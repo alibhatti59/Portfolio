@@ -32,7 +32,7 @@
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-hassnain-bhatti-1a0506312?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-[![YouTube](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://youtube.com/@smartuse_tech_byali?si=q9LPE9euF-Mc5rtJ)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@smartuse_tech_byali?si=q9LPE9euF-Mc5rtJ)  
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto: alihassnainbhatti110@gmail.com)
 
 ---
